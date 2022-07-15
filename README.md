@@ -15,4 +15,5 @@ Also, it will contain the following features:
  - calculate opperations on decimal numbers too
 
  Attached you will find the final project form:
+ 
  ![Calculator.png](Images/Calculator.png)
